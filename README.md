@@ -1,25 +1,27 @@
 # Word-Guess-Game
 
-1. [Watch the demo](https://youtu.be/W-IJcC4tYFI).
+_A fun way to play Hang-Man. The Word-Guess-Game makes you choose first how advanced you are at the game, and then makes you guess a word that is all about the Computer Science Field._
 
-2. Choose a theme for your game! In the demo, we picked an 80s theme: 80s questions, 80s sound and an 80s aesthetic. You can choose any subject for your theme, though, so be creative!
+-----------------------------------------------------------------------------------------------------------------------------------------
+## Features :computer:
 
-3. Use key events to listen for the letters that your players will type.
+- HTML
+- CSS
+- JavaScript
+----------------------------------------------------------------------------------------------------------------------------------------
+## Structure 
 
-4. Display the following on the page:
-
-5. Press any key to get started!
-
-6. Wins: (# of times user guessed the word correctly).
-
-   * If the word is `madonna`, display it like this when the game starts: `_ _ _ _ _ _ _`.
-
-   * As the user guesses the correct letters, reveal them: `m a d o _  _ a`.
-
-7. Number of Guesses Remaining: (# of guesses remaining for the user).
-
-8. Letters Already Guessed: (Letters the user has guessed, displayed like `L Z Y H`).
-
-9. After the user wins/loses the game should automatically choose another word and make the user play it.
+- :file_folder: assets
+  - :file_folder: css
+    - :page_facing_up: style.css
+    - :page_facing_up: style2.css
+  - :file_folder: images
+    - :page_facing_up: (12 images)
+  - :file_folder: javascript
+    - :page_facing_up: game2.js
+- :page_facing_up: README.md
+- :page_facing_up: index.html
+----------------------------------------------------------------------------------------------------------------------------------------
+:earth_americas: Coming soon!
 
 Have fun!
